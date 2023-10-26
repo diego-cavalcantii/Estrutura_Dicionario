@@ -1,4 +1,4 @@
-# Atividade-dicionario
+# Estrutura Dicionario
 Projetos de Python
 Usando a Estrutura de dados Dicionario
 
