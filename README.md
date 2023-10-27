@@ -17,4 +17,6 @@ Chaves - Id - Descrição - Categoria - Quantidade estoque - Valor compra - Valo
 a.	Relatório de todos os produtos cuja quantidade em estoque seja inferior a 100 unidades.<br/>
 b.	Relatório de todos os produtos com estoque superior a 120 unidades, cujo valor de venda esteja entre R$120,00 e R$350,00.
 
+# testando 
+
 
